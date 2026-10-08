@@ -1,6 +1,4 @@
 ### Открываем файл лога
-file = open("logs.txt", "w")
-file.close()
 file = open("logs.txt", "r")
 
 
