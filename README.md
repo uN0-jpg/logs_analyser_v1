@@ -16,7 +16,7 @@
 
 ##### **Instructions**
 
-1. Put your logs in logs.txt in the following format: IP HTTP\_Method Path HTTP\_Status\_Code
+1. Put your logs in logs.txt in the following format: IP HTTP\_Method Path HTTP\_Status\_Code (you can see the example in logs_example.txt)
 2. Look at the results
 
 
