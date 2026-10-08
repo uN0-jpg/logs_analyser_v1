@@ -25,7 +25,9 @@
 
 ###### ***Feedback is welcome:***
 
-*github: @uN0-jpg
-telegram: @uno\_cybersec
-x: @un0ffa*
+[*GitHub: @uN0-jpg*](https://github.com/uN0-jpg)
+
+[*Telegram: @uno\_cybersec*](https://t.me/uno_cybersec)
+
+[*X: @un0ffa*](https://x.com/un0ffa)
 
